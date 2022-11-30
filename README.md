@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-<h3>Frontend developer and Backend developer</h3>
+<h3>Frontend and Backend web developer</h3>
 </div>
 
 
