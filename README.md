@@ -29,6 +29,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 
 <br>
-
-[![senura-47802](https://github-readme-stats.vercel.app/api?username=senura-47802&show_icons=true&theme=tokyonight)](https://github.com/senura-47802)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senura-47802&title_color=3174e7&text_color=37bc9c&show_icons=true&icon_color=be90f2&bg_color=1d1f21)](https://github.com/senura-47802)
