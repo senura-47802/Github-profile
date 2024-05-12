@@ -13,8 +13,8 @@
 
 - 📊Graphic Designer
 - 📊Frontend web developer
-- 📊 Backend developer
-- 📊BITS 22 2nd Runners Up
+- 📊Backend developer
+- 📊BITS 24 Winner
 - 📊 https://techlore.cf Site Developer
 
 ## 🔧 Technologies & Tools
