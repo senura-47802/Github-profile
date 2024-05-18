@@ -11,10 +11,10 @@
 
 ### About Me
 
-- 📊Graphic Designer
+- 📊**BITS 24 Winner**
 - 📊Frontend web developer
 - 📊Backend developer
-- 📊BITS 24 Winner
+- 📊Graphic designer
 - 📊 https://techlore.cf Site Developer
 
 ## 🔧 Technologies & Tools
