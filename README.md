@@ -15,7 +15,7 @@
 - 📊Frontend web developer
 - 📊Backend developer
 - 📊Graphic designer
-- 📊 https://techlore.cf Site Developer
+- 📊 https://techlore.us.to Site Developer and Project head
 
 ## 🔧 Technologies & Tools
 
